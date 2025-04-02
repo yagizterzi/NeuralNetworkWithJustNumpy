@@ -10,8 +10,7 @@ This project implements a simple neural network from scratch using only NumPy. T
 - Uses gradient descent with mini batches and cross entropy loss for classification
 
 ## Dataset
-The MNIST dataset contains 60,000 training images and 10,000 test images of handwritten digits, each 28x28 pixels in size. The dataset is publicly available and can be loaded using various libraries.
-
+This dataset uses 10.000 of 60.000 images in MNSIT dataset which has handwritten digits, each 28x28 pixels in size. The dataset is publicly available and can be loaded using various libraries.
 ## Requirements
 To run this notebook, install the following dependencies:
 
@@ -44,7 +43,7 @@ pip install numpy matplotlib
 - **Final Accuracy:** **92% (0.92)** on the MNIST test set
 
 ## Results
-After training, the model achieves an impressive accuracy of **97%** on the MNIST test set, demonstrating the effectiveness of a simple neural network implemented with NumPy.
+After training, the model achieves an impressive accuracy of **92%** on the MNIST test set, demonstrating the effectiveness of a simple neural network implemented with NumPy.
 
 ## Contributions
 Feel free to open issues and submit pull requests to improve this implementation.
