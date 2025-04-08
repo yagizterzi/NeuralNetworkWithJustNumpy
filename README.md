@@ -21,7 +21,7 @@ pip install numpy matplotlib
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone <[repository_url](https://github.com/yagizterzi/NeuralNetworkWithJustNumpy)>
+   git clone <https://github.com/yagizterzi/NeuralNetworkWithJustNumpy>
    cd <NeuralNetworkWithJustNump>
    ```
 2. Run the Jupyter Notebook:
